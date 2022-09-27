@@ -11,4 +11,6 @@ img {vertical-align:middle;}
 #container .cont2 .center {width:1200px; margin:0 auto; background:lime;}
 
 #footer {background:gold;}
+#footer .center {width:1170px; margin:0 auto; background-color:brown;}
+#footer p { font-size:25px; color:red;}
 
