@@ -7,6 +7,8 @@ img {vertical-align:middle;}
 #header .center {background:orange; width:1000px; margin:0 auto;}
 
 #container {background:skyblue;}
+#container .cont1 .center {width:1170px; margin:0 auto; background:green;}
+#container .cont2 .center {width:1200px; margin:0 auto; background:lime;}
 
 #footer {background:gold;}
 
