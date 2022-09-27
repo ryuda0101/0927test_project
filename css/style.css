@@ -14,3 +14,8 @@ img {vertical-align:middle;}
 #footer .center {width:1170px; margin:0 auto; background-color:brown;}
 #footer p { font-size:25px; color:red;}
 
+/* 서브페이지 1번 css 작업구간 */
+#header .h-top .center {background-color:palegreen; color:seagreen;}
+#header .h-bot .center {background-color:palevioletred; color:slateblue;}
+
+
